@@ -1,12 +1,4 @@
 <div align="center">
-
-<!-- 1. GRADIENT WAVING BANNER (Without Text) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=header&text=%20" width="100%" />
-
-<!-- 2. AI TYPING ANIMATION (Placed directly below) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=S.M.+AMZAD+HOSSAIN;CREATIVE+DEVELOPER;AI+DRIVEN+DESIGN" alt="Amzad's Name" />
-
-</div>
 <!-- 1. PREMIUM ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amzad%20Hossain&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
