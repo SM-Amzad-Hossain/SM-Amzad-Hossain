@@ -58,29 +58,16 @@
 </div>
 ---
 
-### 🚀 Current Focus
-- ⚡ **WebClyde:** Developing a premium digital agency WordPress theme with high-end GSAP animations.
-- 🛠️ **Modern UI:** Implementing custom smooth-scroll logic and utility-first CSS structures.
-- 🤖 **AI Integration:** Optimizing development workflows using local LLMs and advanced AI tools.
+
+******
+<div align="center">
+
+# 🤖
+![Amzad's Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=S.M.+AMZAD+HOSSAIN;CREATIVE+DEVELOPER;AI+DRIVEN+DESIGN)
 
 ---
 
-### 🛠️ Favorite Tech Stack & Tools
+### 🌐 SYSTEM STATUS: ONLINE
+`CORE_ENGINE: GSAP_ANIMATION` | `INTERFACE: TAILWIND_CSS` | `DATABASE: FIREBASE`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,tailwind,gsap,php,mysql,vite,linux,figma,github,vscode" />
-</p>
-
-<br />
-
-<div align="center">
-  <!-- This provides a subtle "live" feel to the footer -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SM-Amzad-Hossain&repo=WebClyde&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SM-Amzad-Hossain&icon=5&color=38B2AC" />
-  <p><i>Design with restraint. Code with intent.</i></p>
 </div>
