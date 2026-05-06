@@ -6,7 +6,6 @@
 <br/>
 
 <!-- 2. AI STYLE NAME & TYPING EFFECT -->
-# 🤖
 ![Amzad's Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=S.M.+AMZAD+HOSSAIN;CREATIVE+DEVELOPER;AI+DRIVEN+DESIGN)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=53D1B1&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;High-End+UI%2FUX+Design;GSAP+%26+Smooth+Scroll+Expert" alt="Typing SVG" />
