@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- 1. PREMIUM ANIMATED BANNER (Updated with dir="auto") -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=dir=%22auto%22&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- 1. PREMIUM ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amzad%20Hossain&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <br/>
 
 <!-- 2. AI STYLE NAME & TYPING EFFECT -->
 # 🤖
-![Amzad's Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=dir%3D%22auto%22;CREATIVE+DEVELOPER;AI+DRIVEN+DESIGN)
+![Amzad's Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=S.M.+AMZAD+HOSSAIN;CREATIVE+DEVELOPER;AI+DRIVEN+DESIGN)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=53D1B1&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;High-End+UI%2FUX+Design;GSAP+%26+Smooth+Scroll+Expert" alt="Typing SVG" />
 
