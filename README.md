@@ -1,5 +1,28 @@
 <div align="center">
 
+<div align="center">
+
+<!-- 1. GRADIENT WAVING BANNER (Without Text) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=%20" width="100%" />
+
+<!-- 2. AI TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=S.M.+AMZAD+HOSSAIN;CREATIVE+DEVELOPER;AI+DRIVEN+DESIGN" alt="Amzad's Name" />
+
+<br/>
+
+### `< Code with Intent & Animate with Purpose />`
+
+<p align="center">
+  <a href="mailto:info.skp.bd.etc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/SM-Amzad-Hossain">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
 <!-- 1. PREMIUM ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amzad%20Hossain&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
