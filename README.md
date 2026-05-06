@@ -56,6 +56,12 @@
   <img src="https://visitcount.itsvg.in/api?id=SM-Amzad-Hossain&icon=5&color=53D1B1" />
 </div>
 ---
+<br />
+
+---
+
+<br />
+
 ### 📈 Activity Bento
 
 <div align="center">
@@ -80,7 +86,11 @@
   </table>
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=SM-Amzad-Hossain&icon=5&color=53D1B1" />
