@@ -56,7 +56,35 @@
   <img src="https://visitcount.itsvg.in/api?id=SM-Amzad-Hossain&icon=5&color=53D1B1" />
 </div>
 ---
+### 📈 Activity Bento
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Core Statistics</b></td>
+      <td align="center"><b>Language Distribution</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SM-Amzad-Hossain&theme=tokyonight&hide_border=true&show_icons=true" height="170px" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Amzad-Hossain&theme=tokyonight&hide_border=true&layout=compact" height="170px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=SM-Amzad-Hossain&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SM-Amzad-Hossain&icon=5&color=53D1B1" />
+</div>
 
 ******
 <div align="center">
