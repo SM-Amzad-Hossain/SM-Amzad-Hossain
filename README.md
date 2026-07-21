@@ -67,6 +67,26 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SM-Amzad-Hossain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+---
+
+### 📂 Featured Projects & Repositories
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SM-Amzad-Hossain&repo=WebClyde&theme=tokyonight&hide_border=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SM-Amzad-Hossain&repo=javaScript-Guess-My-Number&theme=tokyonight&hide_border=true" width="400px" />
+</p>
+
+</div>
+
+---
+
 ### 💻 Tech Stack Overview
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
