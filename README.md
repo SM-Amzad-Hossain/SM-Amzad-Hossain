@@ -37,12 +37,13 @@
 
 ---
 
-### 🚀 Active Working Projects
+### 💼 Professional Experience (1+ Years Running)
 <div align="center">
 
-| 🌐 **WebClyde** | 🌐 **am2am** |
+| 🏢 **WebClyde** | 🏢 **am2am** |
 | :---: | :---: |
-| *Premium Digital Agency Platform* | *Advanced Web Solutions & Services* |
+| *Full-Stack Web Developer & Designer* | *Full-Stack Web Developer & Designer* |
+| 🟢 **1+ Year Running** | 🟢 **1+ Year Running** |
 | [Visit WebClyde](https://webclyde.com/) | [Visit am2am](https://am2am.com/) |
 
 </div>
