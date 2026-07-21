@@ -77,11 +77,7 @@
 ### 📈 Activity Bento
 <div align="center">
 
-| **Core Statistics** | **Language Distribution** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=SM-Amzad-Hossain&theme=tokyonight&hide_border=true&show_icons=true" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Amzad-Hossain&theme=tokyonight&hide_border=true&layout=compact" height="170px" /> |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SM-Amzad-Hossain&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SM-Amzad-Hossain&theme=tokyonight&hide_border=true&background=1a1b26" width="100%"/>
 
 </div>
 
@@ -123,11 +119,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SM-Amzad-Hossain&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SM-Amzad-Hossain&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Amzad-Hossain&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
