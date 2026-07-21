@@ -17,6 +17,7 @@
 ---
 
 ### ⚡ Quick Connect
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 [![Facebook](https://img.shields.io/badge/Connect-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s.m.amzad.hossain.67068) 
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.m.amzadhossain) 
 [![Email](https://img.shields.io/badge/Mail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.skp.bd.etc@gmail.com)
@@ -110,7 +111,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/s.m.amzad.hossain.67068) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.m.amzadhossain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.skp.bd.etc@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/s.m.amzad.hossain.67068) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.m.amzadhossain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.skp.bd.etc@gmail.com) 
 
 ---
 
