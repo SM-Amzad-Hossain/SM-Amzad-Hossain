@@ -17,13 +17,13 @@
 ---
 
 ### ⚡ Quick Connect
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?) 
-[![Facebook](https://img.shields.io/badge/Connect-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s.m.amzad.hossain.67068) 
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.m.amzadhossain) 
-[![Email](https://img.shields.io/badge/Mail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.skp.bd.etc@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://facebook.com/s.m.amzad.hossain.67068"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/s.m.amzadhossain"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:info.skp.bd.etc@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 </div>
-
----
 
 ### 👨‍💻 About Me
 
