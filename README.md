@@ -17,11 +17,10 @@
 ---
 
 ### ⚡ Quick Connect
-[![Linkedin](https://img.shields.io/badge/Connect-Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?) 
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?) 
 [![Facebook](https://img.shields.io/badge/Connect-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s.m.amzad.hossain.67068) 
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.m.amzadhossain) 
 [![Email](https://img.shields.io/badge/Mail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.skp.bd.etc@gmail.com)
-
 </div>
 
 ---
