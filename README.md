@@ -21,9 +21,9 @@
   <a href="https://www.linkedin.com/in/s-m-amzad-hossain-76b378403?"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://facebook.com/s.m.amzad.hossain.67068"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/s.m.amzadhossain"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:info.skp.bd.etc@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:amzad2ev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-</div>
+</div> 
 
 ### 👨‍💻 About Me
 
